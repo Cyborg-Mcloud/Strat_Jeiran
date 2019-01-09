@@ -7,7 +7,7 @@
         version   = "0.0.1"
 		package="com.designge.stratjeiran"
 		xmlns:android="http://schemas.android.com/apk/res/android">
-    <name>Alibi</name>
+    <name>Jeiran</name>
 
 	
 	<icon src="icon_1024.jpg" />
